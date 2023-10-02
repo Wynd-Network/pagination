@@ -1,13 +1,13 @@
 {
-  "version": "1.4.19",
-  "homepage": "https://github.com/niconiahi/ajna",
-  "name": "@ajna/pagination",
+  "version": "0.0.2",
+  "homepage": "https://github.com/Wynd-Network/pagination",
+  "name": "@getgrass/pagination",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "author": "Nicolas Accetta <nicolas.accetta@gmail.com> (https://github.com/niconiahi/)",
+  "author": "Grass",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/niconiahi/ajna.git",
+    "url": "https://github.com/Wynd-Network/pagination.git",
     "directory": "packages/pagination"
   },
   "keywords": [
@@ -33,14 +33,14 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
-    "framer-motion": "^6.3.11",
+    "framer-motion": "^10.16.4",
     "lodash.union": "^4.6.0"
   },
   "peerDependencies": {
     "@chakra-ui/react": "^2.2.1",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
-    "framer-motion": "^6.3.11",
+    "framer-motion": "^10.16.4",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1"
@@ -55,7 +55,7 @@
     "@types/lodash.union": "^4.6.7",
     "@types/react": "^18.0.12",
     "@types/react-dom": "^18.0.5",
-    "framer-motion": "^6.3.11",
+    "framer-motion": "^10.16.4",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-icons": "^4.4.0",
@@ -68,7 +68,7 @@
   },
   "description": "## Table of Contents",
   "bugs": {
-    "url": "https://github.com/niconiahi/ajna/issues"
+    "url": "https://github.com/Wynd-Network/pagination.git"
   },
   "license": "MIT",
   "gitHead": "de833a6d885bf54d9d26d53f4600b9f8ba02b4ed"

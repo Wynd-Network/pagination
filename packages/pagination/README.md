@@ -1,4 +1,4 @@
-# @ajna/pagination
+# @getgrass/pagination
 
 ## Table of Contents
 
@@ -26,24 +26,19 @@
   - [Total](#total)
   - [Full usage example](#full-usage-example)
 
-## Version
-
-## [![npm version](https://badge.fury.io/js/%40ajna%2Fpagination.svg)](https://badge.fury.io/js/%40ajna%2Fpagination)
-
-<br />
 
 ## Installation
 
 ### npm
 
 ```bash
-npm i @ajna/pagination
+npm i @getgrass/pagination
 ```
 
 ### Yarn
 
 ```bash
-yarn add @ajna/pagination
+yarn add @getgrass/pagination
 ```
 
 <br />
@@ -157,7 +152,7 @@ import {
   PaginationPrevious,
   PaginationContainer,
   PaginationPageGroup,
-} from "@ajna/pagination";
+} from "@getgrass/pagination";
 
 const Minimal: FC = () => {
   const {
@@ -410,7 +405,7 @@ import {
   PaginationPageGroup,
   PaginationContainer,
   PaginationSeparator,
-} from "@ajna/pagination";
+} from "@getgrass/pagination";
 
 const fetchPokemons = async (
   pageSize: number,
